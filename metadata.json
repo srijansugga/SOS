@@ -1,0 +1,6 @@
+{
+  "name": "PocketGuardian AI",
+  "description": "Personal safety companion and emergency escalation engine with structured urgency assessment, prioritized contact routing, and live safety telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
